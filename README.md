@@ -16,7 +16,7 @@ Scalable Architecture Designed to support anything from a single household to la
 
 🧠 Why This Project Stands Out
 Unlike basic energy trackers, this system goes beyond raw data collection by transforming energy usage into meaningful insights. It bridges the gap between monitoring and decision-making, enabling users to take control of their energy consumption with precision.
-<img width="1398" height="1222" alt="CHAPTER 1 - visual selection (1)" src="https://github.com/user-attachments/assets/7e0c783d-5b82-4051-8a10-71885e30a989" />
+
 
 
 🏗️ System Architecture (Overview)
@@ -24,13 +24,15 @@ Data Collection Layer – Sensors / APIs gather energy usage data
 Processing Layer – Backend handles data cleaning, storage, and analysis
 Visualization Layer – Frontend dashboard presents insights in real time
 Alert System – Triggers notifications based on predefined thresholds
-<img width="741" height="516" alt="_- visual selection (3)" src="https://github.com/user-attachments/assets/20f92d20-c68a-4c14-a648-1619b81877af" />
+
 
 🎯 Goals
 Improve energy efficiency through data transparency
 Reduce unnecessary power consumption
 Enable smarter, sustainable energy habits
 Provide a foundation for future AI-driven optimization
+
+
 🔮 Future Scope
 Predictive analytics using machine learning
 IoT automation (auto shut-off / smart control systems)
